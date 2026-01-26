@@ -1,4 +1,4 @@
-#!/home/kaua/Downloads/fastapi/.venv/bin/python3
+#!/home/marco/carro-fastapi/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
